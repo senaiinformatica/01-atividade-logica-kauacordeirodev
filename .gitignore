@@ -1,8 +1,10 @@
 # Arquivos que eu não quero subir para o GitHub.
 
 # Arquivos específicos
-
 neymar.jpg
 
 # Arquivos em diretórios específicos
 /proibidos
+
+# Extensões proibidas
+*.exe
